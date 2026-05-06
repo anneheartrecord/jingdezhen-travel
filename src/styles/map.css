@@ -21,6 +21,17 @@
   pointer-events: none;
 }
 
+.map-art {
+  position: absolute;
+  inset: 50% auto auto 50%;
+  width: min(82%, 760px);
+  max-height: 88%;
+  opacity: 0.22;
+  object-fit: contain;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+}
+
 .map-river {
   position: absolute;
   left: 8%;
@@ -124,36 +135,28 @@
 .traveler {
   position: absolute;
   z-index: 5;
-  width: 34px;
-  height: 46px;
+  width: 48px;
+  height: 58px;
   transform: translate(-50%, -100%);
   pointer-events: none;
 }
 
-.traveler-head,
-.traveler-body,
+.traveler-avatar,
 .traveler-shadow {
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
 }
 
-.traveler-head {
+.traveler-avatar {
   top: 0;
-  width: 18px;
-  height: 18px;
-  border: 2px solid var(--ink);
+  width: 44px;
+  height: 44px;
+  border: 2px solid var(--cobalt);
   border-radius: 50%;
-  background: #f6c7a8;
-}
-
-.traveler-body {
-  top: 17px;
-  width: 24px;
-  height: 24px;
-  border: 2px solid var(--ink);
-  border-radius: 8px 8px 12px 12px;
-  background: linear-gradient(135deg, var(--cobalt), var(--celadon));
+  background: #fffdf7;
+  box-shadow: 0 10px 20px rgba(24, 50, 74, 0.16);
+  object-fit: cover;
 }
 
 .traveler-shadow {

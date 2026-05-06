@@ -28,6 +28,7 @@ export function InteractiveMap({
 
   return (
     <div className="porcelain-map" aria-label="景德镇景点分布地图">
+      <img alt="" className="map-art" src={`${import.meta.env.BASE_URL}assets/porcelain-map.png`} />
       <div className="map-river" aria-hidden="true" />
       <div className="map-mountain mountain-left" aria-hidden="true" />
       <div className="map-mountain mountain-right" aria-hidden="true" />
@@ -59,8 +60,7 @@ export function InteractiveMap({
         initial={false}
         transition={{ damping: 18, stiffness: 120, type: "spring" }}
       >
-        <span className="traveler-head" />
-        <span className="traveler-body" />
+        <img alt="" className="traveler-avatar" src={`${import.meta.env.BASE_URL}assets/traveler-character.png`} />
         <span className="traveler-shadow" />
       </motion.div>
     </div>

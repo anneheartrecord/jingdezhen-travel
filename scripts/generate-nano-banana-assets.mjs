@@ -2,12 +2,13 @@ import { GoogleGenAI } from "@google/genai";
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { homedir } from "node:os";
 import { dirname, resolve } from "node:path";
+import { ProxyAgent, setGlobalDispatcher } from "undici";
 
 const assetRequests = [
   {
     fileName: "porcelain-map.png",
     prompt:
-      "Create a fresh blue-and-white porcelain style illustrated mini map for a Jingdezhen travel website. Cute but practical, top-down/isometric hybrid, porcelain white background, cobalt blue linework, celadon green hills, small warm kiln-orange accents. Show abstract city core, Sanbao valley, Fuliang countryside, Yaoli old town as visual clusters. No readable text, no watermark, no UI mockup.",
+      "Create a fresh blue-and-white porcelain style illustrated mini map for a Jingdezhen travel website. Cute but practical, top-down/isometric hybrid, porcelain white background, cobalt blue linework, celadon green hills, small warm kiln-orange accents. Show abstract city core, Sanbao valley, Fuliang countryside, and Yaoli old town as visual clusters. Do not include any letters, labels, words, numbers, Chinese characters, Latin text, captions, signage, watermark, or UI mockup.",
   },
   {
     fileName: "traveler-character.png",
@@ -17,9 +18,22 @@ const assetRequests = [
   {
     fileName: "share-cover.png",
     prompt:
-      "Create a Xiaohongshu-friendly cover image for a Chinese travel project named 瓷都旅游指北. Fresh blue-and-white porcelain illustration style, Jingdezhen ceramics, map route dots, tiny traveler, soft porcelain white, cobalt blue, celadon green, kiln-orange accents. Keep the center composition clean for overlay text, no watermark.",
+      "Create a Xiaohongshu-friendly cover background for a Chinese Jingdezhen travel route planner. Fresh blue-and-white porcelain illustration style, Jingdezhen ceramics, map route dots, tiny traveler, soft porcelain white, cobalt blue, celadon green, kiln-orange accents. Leave a clean empty center area where real text can be overlaid later. Do not include any letters, labels, words, numbers, Chinese characters, Latin text, captions, signage, or watermark.",
   },
 ];
+
+/**
+ * Configures Node fetch to use the local proxy when present.
+ */
+function configureProxy() {
+  const proxyUrl = process.env.HTTPS_PROXY ?? process.env.https_proxy ?? process.env.HTTP_PROXY ?? process.env.http_proxy;
+  if (!proxyUrl) {
+    return;
+  }
+
+  setGlobalDispatcher(new ProxyAgent(proxyUrl));
+  console.log("using proxy from environment");
+}
 
 /**
  * Loads one environment variable from shell, local env files, or Codex private config.
@@ -108,6 +122,7 @@ async function generateAsset(aiClient, fileName, prompt) {
  * @returns Promise that resolves when all assets are generated.
  */
 async function main() {
+  configureProxy();
   const apiKey = loadSecret(["GEMINI_API_KEY", "GOOGLE_API_KEY", "GOOGLE_GENERATIVE_AI_API_KEY"]);
   if (!apiKey) {
     throw new Error("Missing GEMINI_API_KEY, GOOGLE_API_KEY, or GOOGLE_GENERATIVE_AI_API_KEY.");
