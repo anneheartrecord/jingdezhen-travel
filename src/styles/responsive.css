@@ -1,0 +1,63 @@
+@media (max-width: 1120px) {
+  .planner-grid,
+  .insight-grid,
+  .guide-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .route-panel {
+    max-height: none;
+  }
+
+  .source-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 720px) {
+  .app-shell {
+    padding: 14px;
+  }
+
+  .top-bar {
+    align-items: start;
+    flex-direction: column;
+  }
+
+  .brand-block {
+    min-height: 0;
+    padding-left: 0;
+  }
+
+  .brand-stamp {
+    position: static;
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  .route-tabs {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .route-tab {
+    width: 100%;
+  }
+
+  .porcelain-map {
+    min-height: 520px;
+  }
+
+  .spot-marker {
+    min-width: 62px;
+    max-width: 86px;
+    padding: 4px 6px;
+  }
+
+  .detail-grid,
+  .metric-row,
+  .source-list {
+    grid-template-columns: 1fr;
+  }
+}

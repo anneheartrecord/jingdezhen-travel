@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="180" viewBox="0 0 240 180" role="img" aria-label="青花瓷风格景德镇小印章">
+  <rect width="240" height="180" rx="8" fill="#fffdf7"/>
+  <path d="M26 126C54 85 81 70 110 82c31 13 49 8 78-27" fill="none" stroke="#7fae9a" stroke-width="12" stroke-linecap="round" opacity=".26"/>
+  <path d="M35 134c34-12 63-11 92 2 26 11 50 9 75-7" fill="none" stroke="#155b9a" stroke-width="3" stroke-dasharray="6 7" stroke-linecap="round"/>
+  <circle cx="70" cy="57" r="22" fill="#edf7f1" stroke="#155b9a" stroke-width="4"/>
+  <path d="M61 55h18M70 46v19" stroke="#155b9a" stroke-width="4" stroke-linecap="round"/>
+  <rect x="102" y="42" width="60" height="46" rx="8" fill="#f8f4ea" stroke="#155b9a" stroke-width="4"/>
+  <path d="M113 78c12-20 25-20 38 0" fill="none" stroke="#e56b5d" stroke-width="4" stroke-linecap="round"/>
+  <path d="M178 58c13 11 19 24 18 39-17-3-30-13-39-29 5-7 12-10 21-10Z" fill="#d8a441" opacity=".78"/>
+  <text x="42" y="157" fill="#18324a" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="20" font-weight="700">瓷都旅游指北</text>
+</svg>

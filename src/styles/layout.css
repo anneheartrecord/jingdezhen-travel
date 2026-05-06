@@ -1,0 +1,118 @@
+.app-shell {
+  width: min(1440px, 100%);
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.top-bar,
+.planner-grid,
+.insight-grid,
+.guide-grid,
+.source-band {
+  width: 100%;
+}
+
+.top-bar {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 6px 0 18px;
+}
+
+.top-bar h1 {
+  margin: 6px 0 0;
+  color: var(--ink);
+  font-size: clamp(2rem, 4vw, 4.6rem);
+  line-height: 0.96;
+}
+
+.brand-block {
+  position: relative;
+  min-height: 120px;
+  padding-left: 132px;
+}
+
+.brand-stamp {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 112px;
+  height: 84px;
+  border: 1px solid rgba(21, 91, 154, 0.16);
+  border-radius: 8px;
+  object-fit: cover;
+  box-shadow: 0 12px 30px rgba(24, 50, 74, 0.1);
+}
+
+.route-tabs,
+.control-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.route-tab {
+  min-height: 38px;
+  padding: 0 15px;
+  font-weight: 700;
+}
+
+.route-tab.active {
+  background: var(--cobalt);
+  color: #fffdf7;
+}
+
+.planner-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.45fr) minmax(360px, 0.75fr);
+  gap: 16px;
+  align-items: stretch;
+}
+
+.map-workspace,
+.route-panel,
+.info-panel,
+.source-band {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(255, 253, 247, 0.88);
+  box-shadow: var(--shadow);
+}
+
+.map-workspace,
+.source-band {
+  padding: 16px;
+}
+
+.panel-heading {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 14px;
+}
+
+.panel-heading h2 {
+  margin: 0;
+  color: var(--ink);
+  font-size: 1.05rem;
+}
+
+.panel-heading p {
+  margin: 2px 0 0;
+  color: rgba(24, 50, 74, 0.68);
+  font-size: 0.9rem;
+}
+
+.insight-grid,
+.guide-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.source-band {
+  margin-top: 16px;
+}

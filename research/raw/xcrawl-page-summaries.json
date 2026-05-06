@@ -1,0 +1,950 @@
+{
+  "generatedAt": "2026-05-06T13:16:44.066Z",
+  "method": "XCrawl Scrape API summary extraction; summaries only, no third-party full article bodies stored.",
+  "pageCount": 37,
+  "completedCount": 31,
+  "totalCreditsUsed": 31,
+  "pages": [
+    {
+      "url": "https://zhuanlan.zhihu.com/p/649719344",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "community-guide",
+      "title": "这大概是景德镇最全的3天2晚旅行攻略 - 知乎",
+      "sourceSnippet": "1.市区一日游. 路线：雕塑瓷厂—乐天集市—梧州路牛骨粉—中国陶瓷博物馆—御窑厂 ... 来到景德镇，除了市区一日游线路外，很多朋友都会选择浮梁县一日游，我也不例外 ...Read more",
+      "summary": "景德镇三天两晚旅行攻略整理出市区内的精品打卡、周边一日游线路，以及美食、住宿和陶瓷体验等实用信息，强调纯手工瓷器工艺的长期传承与城市文艺氛围。重点景点包括御窑博物馆、雕塑瓷厂与乐天集市、中国陶瓷博物馆，以及夜晚的陶溪川手工市集，配有具体地址、开放时间和票务提示，适合第一 visitors 规划完整路线。周边游涵盖寒溪村、瑶里古镇、瓷宫和三宝村的艺术氛围与自然景观，强调包车或电瓶车等交通方式以提高游览效率，并提供各地美食与住宿的性价比信息，帮助家庭和自助旅者做出选择。 overall，文章以实用性和体验感并重，展示景德镇作为千年瓷都的独特魅力及适合家庭亲子游的多样活动。",
+      "metadata": {
+        "description": "千年瓷都，一直以来都心心念念。一个依靠纯手工的学徒式制瓷技艺，竟然能一直蜚声中外真的太神奇了。作为1个初到景德镇的游客，整理了3天2夜的旅行攻略，全文8000多字，包括市区、周边、饮食、住宿、陶艺体验等，…",
+        "datePublished": "2023-08-13T04:01:38.000Z",
+        "dateModified": "2024-03-17T15:35:55.000Z"
+      },
+      "tags": [
+        "住宿",
+        "交通",
+        "路线",
+        "陶溪川",
+        "陶阳里",
+        "中国陶瓷博物馆",
+        "雕塑瓷厂",
+        "三宝村",
+        "瑶里",
+        "寒溪村",
+        "瓷宫",
+        "浮梁",
+        "美食"
+      ],
+      "relatedQueries": [
+        "景德镇 一日游 攻略 路线",
+        "景德镇 三日游 攻略 路线",
+        "景德镇 3天2晚 攻略 不踩雷",
+        "景德镇 寒溪村 攻略 交通",
+        "景德镇 路线规划 自驾 包车 瑶里 三宝村"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://you.ctrip.com/travels/jingdezhen405/4161682.html",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "ota-guide",
+      "title": "刚从景德镇回来，两日游保姆攻略分享给大家 - 景德镇游记攻略【携程攻略】",
+      "sourceSnippet": "Apr 22, 2025 — 景德镇游记攻略，携程攻略社区! 百万旅行家与驴友分享景德镇旅游心得、旅行玩法、游玩天数、行程路线、必去景点、美食推荐、当地特产、旅游花费等实用 ...",
+      "summary": "携程的页面聚焦于多种旅行服务的入口和资源，覆盖酒店、机票、火车票、旅游、门票与活动、用车、以及国际化的旅游综合服务。内容呈现大量指向具体产品页的链接，如国内外机票、定制包机、自由行、邮轮、签证、保险、企业差旅等，便于用户快速进入所需服务的详细页。此外，还包含旅游资讯、攻略、门票和租车等分栏，以及关于携程、加盟合作和金融服务等企业信息，构成一个完整的旅行生态入口。\n\n公告部分明确宣布游记业务将于2025-11-30停止运维，强调已发表的游记仍保留但不再提供编辑功能，提示未来可通过发布笔记继续记录旅行体验。页面底部还展示了版权、备案信息、客服与投诉渠道等，确保用户在使用过程中获得合规与安全保障，并提供了app下载入口与多种帮助资源。",
+      "metadata": {
+        "description": "景德镇游记攻略，携程攻略社区! 百万旅行家与驴友分享景德镇旅游心得、旅行玩法、游玩天数、行程路线、必去景点、美食推荐、当地特产、旅游花费等实用信息。要旅行，从携程开始。",
+        "datePublished": "",
+        "dateModified": ""
+      },
+      "tags": [
+        "住宿",
+        "路线",
+        "美食"
+      ],
+      "relatedQueries": [
+        "景德镇 二日游 攻略 路线"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://zhuanlan.zhihu.com/p/758257881",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "community-guide",
+      "title": "带你玩转景德镇，三日游超全攻略！ - 知乎",
+      "sourceSnippet": "Sep 29, 2024 — 下面，跟随Exping 的步伐，一起玩转景德镇吧！ 完整地图：景德镇三日游路线攻略. 三日行程路线安排. 第一天：陶瓷文化探索. 来到景德镇，从体验陶瓷文化开始。Read more",
+      "summary": "The content presents a travel guide to Jingdezhen, known as the Porcelain Capital of China, highlighting its ceramic culture, history, and modern art. It outlines a three-day itinerary starting with ceramic culture in Sanbao International Ceramic Village, moves to historical and folk experiences at museums and ancient kilns, and ends with a mix of natural scenery and contemporary art at places like Cí Palace and Yaoli Ancient Town. The guide emphasizes hands-on experiences such as pottery making, viewing exhibitions, and exploring traditional workshops, along with local cuisine to enrich the trip. It also points readers to a complete map and further resources for planning.",
+      "metadata": {
+        "description": "景德镇，位于中国江西省东北部，是一座以陶瓷闻名于世的历史文化名城，素有“瓷都”之称。 景德镇的陶瓷不仅是一种文化符号，更是一种历史传承和艺术创新的象征，彰显了中国悠久的手工艺传统与现代文化的创新力量…",
+        "datePublished": "2024-09-29T08:59:16.000Z",
+        "dateModified": "2024-09-29T08:59:16.000Z"
+      },
+      "tags": [
+        "路线"
+      ],
+      "relatedQueries": [
+        "景德镇 三日游 攻略 路线"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://hk.trip.com/moments/detail/jingdezhen-405-135227779/",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "ota-guide",
+      "title": "景德鎮3日保姆級攻略 路線+避坑+出片全拿捏｜Trip.com 景德鎮",
+      "sourceSnippet": "Aug 27, 2025 — 城市向導深挖玩法!整理不繞路、0踩雷、瘋狂出片的景德鎮3日遊,從瓷廠到古村,從博物館到陶藝體驗,帶你沉浸式吃透瓷都浪漫   🗺️ 3日路線|精準打卡瓷都精華Read more",
+      "summary": "The content showcases Trip.com’s Hong Kong locale, highlighting travel content centered on 景德鎮 (Jingdezhen). It features a detailed Trip Moment by JU. Joy 20 about 景德鎮陶溪川鉑格酒店 and a 3-day, well-rounded itinerary that covers museums, ceramic workshops, villages, markets, and photo-worthy spots, along with practical tips on booking, transportation, and photography. The guide emphasizes immersive ceramic experiences, local food stalls, and the陶溪川 area as a core hub, offering a mix of historical, cultural, and artisanal activities.\n\nAdditionally, the page points to related Trip Moments, blogs, and destination guides, plus practical hotel and restaurant suggestions near陶溪川 and other 景德鎮 attractions. It includes navigation links for orders, login, and homepage, and lists support, terms, privacy, loyalty programs, and partner services, underscoring Trip.com’s broad travel services and information resources. The footer confirms copyright and regulatory details for Trip.com Travel Singapore, with licensing references for Hong Kong travel agents.",
+      "metadata": {
+        "description": "城市向導深挖玩法!整理不繞路、0踩雷、瘋狂出片的景德鎮3日遊,從瓷廠到古村,從博物館到陶藝體驗,帶你沉浸式吃透瓷都浪漫👇  🗺️ 3日路線|精準打卡瓷都精華  Day1 歷史人文線:景德鎮博物館→陶陽里+御窯博物館(拍寫真)→陶陽新村→九集小鎮  ✅景德鎮博物館:先逛博物館打底!快速梳理瓷都千年脈絡,看從宋元青白瓷到明清官窯的演變,為後續行程攢“知識點濾鏡”~ ✅陶陽里+御窯博物館:兩處連逛超方便✨ 53元門票可1天進出5次!白天拍光影文藝感,晚上亮燈後秒變“琉璃夢境”(",
+        "datePublished": "",
+        "dateModified": ""
+      },
+      "tags": [
+        "住宿",
+        "避坑",
+        "陶溪川"
+      ],
+      "relatedQueries": [
+        "景德镇 三日游 攻略 路线",
+        "景德镇 陶艺体验 攻略 避坑"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://hk.trip.com/blog/jingdezhen-405-4days-itinerary-10015200805/",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "ota-guide",
+      "title": "2026年景德鎮4日3夜旅遊攻略：用AI行程規劃助手解鎖必玩活動（更新於4月）",
+      "sourceSnippet": "Apr 28, 2026 — 交通方式：距離市區不遠，打車20分鐘左右；也可在村子里租電動車（30元/天），一路欣賞風景，還能隨時停下拍照，關鍵節假日打車容易堵車，另外強烈建議平台叫車， ...Read more",
+      "summary": "景德鎮4日3夜旅遊攻略提供一站式行程規劃與景點推薦，聚焦景德鎮與浮樑地區的瓷都文化與歷史遺產。內容按日分成四個主題行程，涵蓋三寶國際陶藝村、三寶蓬藝術聚落與陶陽裡旅遊區等打卡地，以及第二日的中國陶瓷博物館與古窯民俗博覽區，第三日則探訪樂天陶社創意市集、陶溪川文創街區與陶藝街，第四日包含皇窯景區與浮梁新平村瓷宮等現代與古典並存的景點。文章同時提供交通、開放時間、門票與拍照小貼士，協助遊客規劃深度且具彈性的行程。\n\n此外，內容還介紹了旅程策劃師功能與多條推薦自由行路線，方便用AI產生客製化行程並整合熱門景點一文看盡。文中不乏實用建議，如租用電動車以便現場移動、午後與夜間的拍照場景選擇，以及住宿選擇與周邊美食信息，讓使用者能更有效率地安排行程並避免遺漏重要景點。整體旨在提供全面的瓷都深度旅遊方案，同時兼顧觀光與文化體驗的平衡。",
+      "metadata": {
+        "description": "探索2026年景德鎮4日3夜之旅的最新旅遊路線，包括全面的行程規劃、旅遊清單，以及交通、住宿和景點推薦，確保您的旅途愉快。",
+        "datePublished": "",
+        "dateModified": ""
+      },
+      "tags": [
+        "住宿",
+        "交通",
+        "路线",
+        "陶溪川",
+        "浮梁",
+        "美食"
+      ],
+      "relatedQueries": [
+        "景德镇 4天3晚 攻略 住宿 交通"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://news.qq.com/rain/a/20251010A07G8F00",
+      "httpStatus": 403,
+      "category": "media-guide",
+      "title": "景德镇保姆级旅游攻略三天两夜不踩雷版",
+      "sourceSnippet": "Oct 10, 2025 — 住宿推荐：. 1.陶溪川附近：属于景德镇的文艺中心，靠近雕塑瓷，、陶阳新村，周围还有陶瓷工作室，美食餐厅，非常方便，晚上夜景 ...",
+      "summary": "",
+      "metadata": {
+        "description": "",
+        "datePublished": "",
+        "dateModified": ""
+      },
+      "tags": [
+        "住宿",
+        "避坑",
+        "陶溪川",
+        "美食"
+      ],
+      "relatedQueries": [
+        "景德镇 旅游 攻略 避雷 交通 住宿",
+        "景德镇 3天2晚 攻略 不踩雷"
+      ],
+      "creditsUsed": 0,
+      "error": "Target URL is blocked by security policy"
+    },
+    {
+      "url": "http://www.ly.com/travels/1141111.html",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "other",
+      "title": "【景德镇验客】景德镇的好，去一次再难忘掉！四天三晚攻略 - 景德镇游记攻略【同程旅游攻略】",
+      "sourceSnippet": "Dec 25, 2024 — 交通：5路支线公交可达三宝村，人多建议直接打车。景区里小交通可以坐景区旅游车，也可以在村口租电动车，扫共享车代步。但一定要注意安全。",
+      "summary": "The content highlights a travel platform focused on booking and travel planning, offering user account features such as orders, favorites, and personal information, along with help and service channels. It emphasizes a broad range of travel categories including hotels, flights, car rentals, trains, cruises, visas, and guided or customized trips, with special sections for domestic and international destinations, themed experiences, and corporate travel. The piece also showcases a detailed travelogue about 景德镇, describing a four-day itinerary that covers major ceramic culture sites like 瓷宫, 瑶里古镇, 陶瓷博物馆, 御窑厂, and 三宝村, plus practical tips on tickets, opening hours, transportation, and photography spots.\n\nAdditionally, it points readers to community features such as travel reviews, user-generated content, and social interactions like comments and sharing, while also providing support channels including customer service, complaint handling, and corporate partnerships. The layout includes multiple navigation links for collaborations, affiliate programs, and partner services, and promotes the mobile app as offering better deals. Overall, the content centers on facilitating comprehensive travel planning, experiential itineraries, and user engagement across a wide network of travel services.",
+      "metadata": {
+        "description": "景德镇游记攻略是百万旅行家与驴友分享景德镇旅游心得、旅行玩法、游玩天数、行程路线，同程攻略社区拥有网友提供的数百万真实游记，寻找精彩旅游攻略，尽在同程攻略社区！",
+        "datePublished": "",
+        "dateModified": ""
+      },
+      "tags": [
+        "交通",
+        "陶阳里",
+        "中国陶瓷博物馆",
+        "三宝村",
+        "瑶里",
+        "瓷宫"
+      ],
+      "relatedQueries": [
+        "景德镇 旅游 攻略 避雷 交通 住宿",
+        "景德镇 交通 打车 公交 攻略",
+        "景德镇 中国陶瓷博物馆 攻略 预约 镇馆之宝",
+        "景德镇 寒溪村 攻略 交通",
+        "景德镇 瓷宫 攻略 交通 值不值得"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://zhuanlan.zhihu.com/p/680697708",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "community-guide",
+      "title": "挑战全网最全景德镇旅游攻略 - 知乎",
+      "sourceSnippet": "Jan 31, 2024 — (亲测滴滴打车最快高德最最最慢). /景德镇北站往左斜前方走就是大量公交车始发站/. 以景德镇北站交通枢纽为例,推荐公交车出站,真滴不推荐打车,根本打不着 ...",
+      "summary": "This piece is a detailed travel guide to Jingdezhen, focusing on a three-day itinerary that highlights ceramics museums, traditional townscapes, and hands-on experiences. It emphasizes managing expectations, noting Jingdezhen as a clean, livable fourth-tier city with uneven transportation, limited taxi access, and a preference for slow, self-guided exploration rather than fast-paced tourist punching. Key stops include the China Ceramic Museum and Yao Kiln Museum, plus the ancient towns of Jiulian and Yaoli, with interior attractions like Sculpture Ceramic Factory, Three Treasures Village, and the Taoxichuan Creative District for markets, studios, and cafes.\n\n Practical tips cover where to stay on a budget, dining recommendations featuring local dishes like cold noodles, dumplings, chili pickles, and beef soups, and guidance on transport and timing, especially for evening visits to the Yao Kiln and planning a third day with car rental to reach remote rural sites. The narrative also notes that the trip blends high-quality ceramic displays with immersive artisan experiences, while advising visitors not to expect perfection or uniform tourist infrastructure, but to embrace the city’s craft-centric charm and slower pace.",
+      "metadata": {
+        "description": "(全文来自 公众号@老fu的杂货铺) (每次写推送都要写7-8个小时,尝试一下发在知乎) 旅行指南 | 景德镇,不去也太亏了 亲爱的观众朋友们大家新年好!2024小火车第一站去到了江西 和之前的攻略一样本店主保证 一文在手,…",
+        "datePublished": "2024-01-31T02:22:20.000Z",
+        "dateModified": "2024-01-31T02:22:20.000Z"
+      },
+      "tags": [
+        "交通"
+      ],
+      "relatedQueries": [
+        "景德镇 交通 打车 公交 攻略",
+        "景德镇 路线规划 自驾 包车 瑶里 三宝村"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://m.douban.com/group/topic/319223427/",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "community-guide",
+      "title": "没有访问权限",
+      "sourceSnippet": "Feb 17, 2025 — 景德镇市区很小，网约车市场充足，叫车很便宜速度也很快，只在市区玩坐网约车就可以。如果有计划去新平瓷宫-寒溪村-瑶里古镇那条线路的话，可以考虑包车，听说 ...Read more",
+      "summary": "The content is a Chinese Douban group page header and navigation, highlighting options to log in or register, download the Douban app for iPhone or Android, and access various Douban services such as books, movies, music, podcasts, and group discussions. It promotes direct app downloads, lists key sections like Douban Groups, Explore discussions, and Hot Groups, and shows a login prompt with an error image indicating restricted access to a page. There are also links for account management, help, mobile apps, and third-party login options, along with a © notice and legal information. Overall, it centers on user access, app downloads, and quick navigation to Douban's core content areas.",
+      "metadata": {
+        "description": "",
+        "datePublished": "",
+        "dateModified": ""
+      },
+      "tags": [
+        "交通",
+        "瑶里",
+        "寒溪村",
+        "瓷宫"
+      ],
+      "relatedQueries": [
+        "景德镇 4天3晚 攻略 住宿 交通",
+        "景德镇 高铁站 到 陶溪川 御窑 三宝村 瑶里"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://www.thechinajourney.com/zh/%E6%99%AF%E5%BE%B7%E9%8E%AE%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "other",
+      "title": "景德鎮住宿指南：最佳區域及飯店推薦（2026年）",
+      "sourceSnippet": "Apr 24, 2026 — 對於大多數初訪景德鎮的遊客來說，最安全的住宿地點仍然是景德鎮舊城區，尤其是桃溪川、桃陽里和禦窯一帶。三寶村適合追求安靜設計的住宿，而北站和珞家機場 ...Read more",
+      "summary": "景德鎮住宿指南聚焦選擇最佳區域以平衡陶瓷文化體驗、夜生活便利與觀光效率。核心區域包括桃溪川、桃陽裡、禦窯及舊城中心，適合初訪者享受核心景點與美食，同時方便漫步與夜間活動。若追求安靜設計感與獨特氛圍，三寶村與藝術住宿提供更高的設計感與私密性，但交通與餐飲便利性相對降低。北站高鐵區與機場周邊的住宿則以交通與轉機便利為主，通常不作為觀光基地。 lodging 選擇依區域特性與旅遊風格分明，為短住、長住與設計導向的旅客提供多樣化選擇。",
+      "metadata": {
+        "description": "尋找景德鎮最佳住宿區域，適合初次造訪、體驗陶瓷文化、漫步古城、享受設計住宿以及方便的鐵路或機場中轉。.",
+        "datePublished": "",
+        "dateModified": ""
+      },
+      "tags": [
+        "住宿",
+        "交通",
+        "美食"
+      ],
+      "relatedQueries": [
+        "景德镇 旅游 住哪里方便"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://cn.toursforfun.com/default/nid-30336.html",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "other",
+      "title": "景德镇旅游全攻略：景点交通美食住宿行程",
+      "sourceSnippet": "Mar 12, 2026 — 景德镇的住宿类型比较丰富，从精品民宿到连锁酒店都有。 如果想体验城市文化氛围，建议住在市中心或陶溪川附近。这里餐饮和娱乐选择较多，晚上也比较热闹 ...Read more",
+      "summary": "途风 ToursForFun 作为携程旗下的旅行平台，提供丰富的旅游产品与服务，包括多语言入口、货币选择、APP下载、服务热线和海量热门目的地与主题线路。网站强调全球海量行程、模组化套餐、以及北美、欧洲、加拿大、亚非澳新等地区的多元选项，方便用户按地域、主题和预算筛选并下单。内容还突出景德镇等热门旅游全攻略与本地特色体验，配合丰富的行程安排、交通信息、住宿建议以及文化旅游体验，帮助游客在不同季节和节奏下规划深度或放松的陶瓷文化之旅。最后提供详细的客户服务与合规信息，强调价格与行程可能变动，需以实际页面为准。",
+      "metadata": {
+        "description": "景德镇位于江西省东北部，因瓷而兴、因瓷闻名，被誉为“中国瓷都”。千百年来，这座城市与陶瓷文化紧密相连，从宋代开始便成为皇家御窑的重要生产地，其精湛的制瓷技艺不仅影响了中国陶瓷的发展，也深刻影响了世界陶瓷艺术史。如今的景德镇既保留着深厚的历史底蕴，又逐渐发展为一座融合传统文化、艺术创作和现代文旅体验的城市。",
+        "datePublished": "",
+        "dateModified": ""
+      },
+      "tags": [
+        "住宿",
+        "交通",
+        "路线",
+        "陶溪川",
+        "美食"
+      ],
+      "relatedQueries": [
+        "景德镇 4天3晚 攻略 住宿 交通",
+        "景德镇 旅游 住哪里方便",
+        "景德镇 寒溪村 攻略 交通"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://post.smzdm.com/p/a8w4gmw6",
+      "scrapeStatus": "failed",
+      "httpStatus": 200,
+      "category": "community-guide",
+      "title": "景德镇旅游超全攻略良心推荐不踩雷",
+      "sourceSnippet": "Feb 26, 2026 — 住宿与交通. 住宿建议选在陶溪川附近一公里范围内，这里是中心地带，方便逛街且有车。不建议住在御窑博物馆附近，那边选择较少且不便。交通方面，高铁 ...",
+      "summary": "",
+      "metadata": {
+        "description": "",
+        "datePublished": "",
+        "dateModified": ""
+      },
+      "tags": [
+        "住宿",
+        "交通",
+        "避坑",
+        "陶溪川",
+        "陶阳里"
+      ],
+      "relatedQueries": [
+        "景德镇 旅游 攻略 避雷 交通 住宿",
+        "景德镇 三宝村 攻略 交通 避坑"
+      ],
+      "creditsUsed": 0,
+      "error": null
+    },
+    {
+      "url": "https://hk.trip.com/guide/activity/jingdezhen-travel-guide.html",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "ota-guide",
+      "title": "景德鎮自由行2026: 3日2夜交通/住宿/買瓷器避坑指南 | Trip.com",
+      "sourceSnippet": "Jan 8, 2026 — 市內交通. 3天網約車(滴滴)、的士及租用共享電動車費用. 約$200 ; 住宿費用. 中高端酒店或設計師民宿（以雙人房入住2晚，攤分後的人均價格）. $600 - $1,000.",
+      "summary": "景德鎮自由行的攻略聚焦於香港遊客如何以高效且沉浸式的方式探索瓷都，從高鐵直達景德鎮北站的便捷交通到市內各具特色的文創街區與博物館，並提供購入瓷器的實用購物與避坑指南。內容強調景德鎮在年輕人中的新興魅力，如陶溪川等地的創意市集和夜景打卡點，以及無語佛的熱門景點，並搭配實用的票務、餐飲與住宿優惠，幫助規劃三天兩夜的深度行程。文章同時涵蓋移動支付、通信網路與港人無痛銜接的支付體驗，以及適合預算分配的行程與預算表，便於快速落地安排。\n\n此外，攻略也提出多樣的活動形式，包括陶藝DIY、撿瓷器、以及山谷中慢活的三寶村等深入體驗地點，並列出實用的季節穿搭建議、天氣預測與美食清單，讓旅程兼具購物、拍照與在地美食享受。以 Trip.com 為中心的一站式資訊整合，從機票與住宿優惠到景點票務與當地交通方案，協助香港旅客無縫衔接與雲端預訂，實現高性價比的短期出行。整體呈現一個以現代城市氣息與傳統陶瓷工藝並存的景德鎮自由行藍圖。",
+      "metadata": {
+        "description": "2026景德鎮自由行遊玩攻略！打卡「無語佛」、陶溪川市集，必吃江西辣美食。附最新交通、住宿及買瓷器避坑指南，輕鬆玩轉千年瓷都！",
+        "datePublished": "",
+        "dateModified": ""
+      },
+      "tags": [
+        "住宿",
+        "交通",
+        "避坑",
+        "路线",
+        "陶溪川",
+        "美食"
+      ],
+      "relatedQueries": [
+        "景德镇 旅游 攻略 避雷 交通 住宿",
+        "景德镇 三宝村 攻略 交通 避坑"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://www.sohu.com/a/1013975368_122712463",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "media-guide",
+      "title": "搜狐",
+      "sourceSnippet": "Apr 24, 2026 — 2. 市内交通：共享电动车、出租车、公交均便捷，陶溪川路、三宝路等景区周边为严管路段，建议优先选择公共交通。 二、游玩攻略：分线打卡，兼顾经典与小众 ...",
+      "summary": "The content appears to be the homepage-like layout of Sohu, listing a broad range of news categories and channels including politics, finance, sports, entertainment, technology, education, travel, health, and more. It highlights numerous sections with subcategories, channel links, and promotional banners, showing a dense, servicey navigation design intended to direct readers to specific topics like military, economy, culture, and lifestyle. The page also features embedded top-story images and carousels, plus numerous article links across diverse topics such as current events, celebrity news, travel highlights, and historical features.\n\nIn addition to the main editorial areas, there are side panels and ad spaces labeled as god-column and sideAd areas, along with a footer containing standard company information and policies. The structure emphasizes a multi-column, content-rich experience with frequent headlines, image tiles, and topic hubs designed to drive engagement across many audience segments. Overall, it presents a comprehensive portal for trending news, features, and multimedia content across dozens of domains.",
+      "metadata": {
+        "description": "",
+        "datePublished": "",
+        "dateModified": ""
+      },
+      "tags": [
+        "交通",
+        "陶溪川",
+        "三宝村"
+      ],
+      "relatedQueries": [
+        "景德镇 交通 打车 公交 攻略",
+        "景德镇 停车 攻略 五一 旅游专线"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://www.sohu.com/a/1017652715_121106908",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "media-guide",
+      "title": "五一景德镇畅玩攻略！经典线路 + 精准停车指南全配齐，不堵车不绕路！_陶瓷_陶阳_瓷都",
+      "sourceSnippet": "4 days ago — 别担心！这篇保姆级攻略，我们为你梳理了适配不同出行需求的景德镇游览线路，每个打卡点位都附上了专属周边停车指南，更有交通管制避坑、公共交通省心攻略，照 ...",
+      "summary": "景德镇五一游玩攻略提供了从一日经典到两日深度的多条线路，聚焦核心景区的高效打卡与周边停车方案，帮助游客避开拥堵与找车位的烦恼。内容详细列出各景点的着重点和周边停车指南，并给出自驾、公交两种出行的注意事项与错峰建议，确保游客能顺畅游览瓷都的历史与现代气息。对于两日线路，涵盖了中国陶瓷博物馆、古窑民俗博览区、陶博城等核心点，以及陶源谷等小众线路，配有专属摆渡、停车场与线路顺序，方便按兴趣深度体验瓷都文化。还提供临时交通管制时间、公共交通一日通票等出行小贴士，帮助游客在五一期间更从容地安排行程。",
+      "metadata": {
+        "description": "",
+        "datePublished": "2026-05-02 21:20",
+        "dateModified": ""
+      },
+      "tags": [
+        "交通",
+        "避坑",
+        "路线",
+        "中国陶瓷博物馆",
+        "古窑",
+        "三宝村"
+      ],
+      "relatedQueries": [
+        "景德镇 停车 攻略 五一 旅游专线"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://www.sohu.com/a/936894292_121106994",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "media-guide",
+      "title": "拥堵预警！景德镇市民和游客请收好这份出行攻略！_路段_迎宾大道_陶溪川",
+      "sourceSnippet": "Sep 20, 2025 — 2025年中秋、国庆双节将至，8天长假为市民休憩、游客寻瓷提供了宝贵时光。 · 关于2025年部分节假日安排的通知 · 国庆节逢中秋节合并放假8天 · 9月28日（周日）、 ...Read more",
+      "summary": "景德镇市民和游客在2025年中秋与国庆长假期间将迎来出行高峰，道路交通压力预计显著增大。交警发布一份“两公布一提示”，覆盖假期安排、天气预报、交通流量预测、易拥堵和事故高发路段，以及维修路段与安全提示，旨在帮助公众合理规划出行时间和路线并遵守交通管控。假期实际执行期间高速公路对小型客车免费通行，时间自10月1日0时起至10月8日24时止，返程高峰预计集中在10月7日至8日。景点周边和市区主要干道将出现人车流叠加的显著拥堵，特别是陶瓷博物馆、御窑厂、陶溪川等热门景区以及珠山大道、迎宾大道等路段。\n\n文章还列出多处易拥堵路段、重点事故易发地点、以及施工维修路段和相应的交通管理措施，强调在节前关注路况与天气信息、检查车辆状况、避免疲劳驾驶、酒后驾车以及超员载客等风险行为。建议公众错峰出行、合理安排休息、遵守限行和单行等临时交通管理规定，以确保假期出行安全顺畅。最终寄语是愿每位市民和游客在瓷都街巷与夜市之间都能平安归来，快乐同行。",
+      "metadata": {
+        "description": "",
+        "datePublished": "2025-09-20 15:01",
+        "dateModified": ""
+      },
+      "tags": [
+        "交通",
+        "避坑",
+        "路线",
+        "陶溪川",
+        "陶阳里",
+        "中国陶瓷博物馆"
+      ],
+      "relatedQueries": [
+        "景德镇 节假日 旅游 避坑 拥堵"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://hk.trip.com/moments/detail/jingdezhen-405-139308352/",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "ota-guide",
+      "title": "景德鎮一日遊懶人攻略｜0元打卡網紅點 附動線地圖｜Trip.com 景德鎮",
+      "sourceSnippet": "Dec 13, 2025 — ⏰ 耗時1.5小時|高效路線:二樓進→直梯衝6樓拍“無語佛”→從展廳五(近現代)逆向逛至新石器時代→二樓取行李→一樓文創館蓋章出,避開人流還能理清瓷史脈絡。 ... ⏰ ...Read more",
+      "summary": "Trip.com offers a comprehensive travel platform in Chinese for Hong Kong users, providing a wide range of services from hotels, flights, trains, car hire and airport transfers to tickets, experiences, cruise trips, travel insurance, and tours. The site highlights bundles like flight+hotel and loyalty rewards, plus practical features such as Trip Planner, travel inspiration, and maps to help plan itineraries efficiently. It emphasizes user-driven content with Trip Moments, guides, and reviews, alongside practical tips for lodging around attractions like ceramic-focused destinations in Jingdezhen, as well as transportation and payment options.\n\nThe service suite includes an online app, customer support, and partnerships programs, plus extensive destination and attraction catalogs, restaurant recommendations, and top lists to assist planning. The platform also showcases promotional deals, a gift card option, and a robust support structure, including privacy and terms policies, to streamline booking and post-purchase experiences. Overall, it positions itself as a one-stop travel hub with loyalty benefits and rich travel content to facilitate planning and travel execution.",
+      "metadata": {
+        "description": "剛從景德鎮返程,整理這份超省心攻略,含清晰動線地圖+精準細節,全程不繞路、少排隊,0元打卡核心網紅點,一天吃透瓷都精華~  🗺️ 核心動線地圖(北→中→南 零折返)  起點:景德鎮北站 → 陶瓷博物館(昌江區)→ 御窯博物館(珠山區陶陽里)→ 上座&middot;精雅贛菜(陶溪川店)→ 陶溪川 → 雕塑瓷廠(新廠街道)→ 三寶村(三寶路)→ 終點:陶陽新村(陶陽里) ✅ 全程沿主軸線順行,景點集中在珠山區,打車/騎電驢無縫銜接,節省往返時間。  🚗 交通貼士  1. 高鐵",
+        "datePublished": "",
+        "dateModified": ""
+      },
+      "tags": [],
+      "relatedQueries": [
+        "景德镇 一日游 攻略 路线"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://m.cncn.net/blog/1015237",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "other",
+      "title": "景德镇一日游最佳攻略，景德镇一日游经典线路，真实游玩经历分享",
+      "sourceSnippet": "路线：从人民广场高德导航到“抚州弄”小吃街吃午饭；吃完午饭可以直接导航去“御窑厂”离得很近；逛完“御窑厂”后可以直接打车前往“中国陶瓷博物馆”（博物馆下午4：30闭馆）；如果时间 ...Read more",
+      "summary": "景德镇一日游的核心在于体验这座瓷都的历史与传统工艺，推荐的经典线路以参观御窑厂、陶瓷博物馆和古窑民俗博览区为主线，辅以在陶溪川等地品尝美食和购买纪念品。门票多为免费或低成本，博物馆开放时间通常从早上至黄昏，交通方面可通过高铁抵达景德镇北站后换乘公交到市区主要景点，行程安排强调早点出发以避开人流并确保充足时间深入参观。文章还提供了多处景点的背景信息，如青花瓷和窑炉的历史渊源，以及郑和下西洋对景德镇瓷器名声的影响。\n\n此外，攻略还包含实用注意事项与小贴士，例如备好遮阳用品、优先参观陶瓷博物馆以建立脉络性认识、在古窑民俗博览区欣赏非遗表演与现场制作，以及在不同景点之间的交通与步行时间建议。文中还提到若时间充裕可顺路游览陶溪川并安排晚餐，最后可直接返回市区或前往景德镇北站返程。若需要个性化路线与实战咨询，文章还提供了联系信息。",
+      "metadata": {
+        "description": "",
+        "datePublished": "",
+        "dateModified": ""
+      },
+      "tags": [
+        "交通",
+        "路线",
+        "陶溪川",
+        "陶阳里",
+        "中国陶瓷博物馆",
+        "古窑",
+        "美食"
+      ],
+      "relatedQueries": [
+        "景德镇 一日游 攻略 路线",
+        "景德镇 交通 打车 公交 攻略"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://hk.trip.com/blog/jingdezhen-405-2days-itinerary-10006130429/",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "ota-guide",
+      "title": "2日1夜景德鎮高效行程規劃攻略（2026年），探索景德鎮必去景點（更新於4月）",
+      "sourceSnippet": "Apr 14, 2026 — 2日1夜景德鎮高效行程規劃攻略（2026年），探索景德鎮必去景點（更新於4月） · 名坊園研學營地 · 浮樑古縣衙景區 · 景德鎮三寶國際瓷谷.Read more",
+      "summary": "景德鎮2日1夜行程提供者聚焦景德鎮與浮樑的高效旅遊路線，涵蓋主要景點與互動體驗，並搭配住宿、交通與美食建議。第一天安排御窯博物館、古窯民俗博覽區以及陶博城，第二天則推介名坊園研學營地、浮樑古縣衙景區和景德鎮三寶國際瓷谷，讓遊客在短時間內深入了解瓷都的歷史與現代創意。內容還包含旅程策劃師工具與自由行路線推薦，方便用戶根據興趣定制行程。\n\n文章同時強調72道瓷工序的實際體驗，並介紹多處可參與手作或觀賞演出的場域，適合喜歡文化探索與陶瓷工藝的旅客。查看各景點的地址與營業時間，並提供評價摘要，幫助規劃者判斷順序與停留時長。整體風格兼顧實用性與沉浸感，鼓勵使用 Trip.com 的 AI 行程工具打造個人化日程。",
+      "metadata": {
+        "description": "探索2026年景德鎮2日1夜之旅的最新旅遊路線，包括全面的行程規劃、旅遊清單，以及交通、住宿和景點推薦，確保您的旅途愉快。",
+        "datePublished": "",
+        "dateModified": ""
+      },
+      "tags": [
+        "住宿",
+        "交通",
+        "路线",
+        "陶艺体验",
+        "美食"
+      ],
+      "relatedQueries": [
+        "景德镇 二日游 攻略 路线"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://my.trip.com/moments/detail/jingdezhen-405-139478809?locale=zh-MY",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "ota-guide",
+      "title": "J人狂喜！景德鎮3天2夜保姆級攻略｜Trip.com 景德鎮",
+      "sourceSnippet": "Dec 17, 2025 — 誰懂啊家人們!本J人做的景德鎮攻略直接封神   玩了2天1夜全程不踩雷,整理好啦分享給要出發的寶子們,照著走就行~ 住宿選對不踩坑!4個區域實測推薦· ...",
+      "summary": "This content is a Trip.com page in Chinese (Malaysia locale) outlining app features and navigation, including access to order search, login, and home pages. It highlights Trip Moments content focused on Jingdezhen, with hotel recommendations and a featured post about the景德鎮紫迎·漫生活設計師酒店, detailing the hotel’s atmosphere, location, service, and nearby attractions. The page also showcases related posts, dining options, and travel tips for Jingdezhen, such as transport methods, city navigation, and practical itineraries for a 3-day stay. It provides links to customer support, service information, and corporate details, plus various sections like about Trip.com, media, careers, terms, privacy, loyalty, and partner programs. Overall, the content centers on promoting Jingdezhen experiences with hotel spotlights, user-shared moments, and practical travel guidance.",
+      "metadata": {
+        "description": "誰懂啊家人們!本J人做的景德鎮攻略直接封神🔥 玩了2天1夜全程不踩雷,整理好啦分享給要出發的寶子們,照著走就行~ 🏡 住宿選對不踩坑!4個區域實測推薦 · 陶溪川 | 折中優選:到各個景點距離都適中,周邊吃喝玩樂一站式搞定,晚上逛夜市超方便!唯一小缺點就是價格距離市中心太近,半夜和早上路上很吵,而且隔音不是很好,空氣也不好,睡眠質量嚴重打折扣,對睡覺沒要求的可以衝 · 三寶村 | 治癒避世:自然風光絕絕子!親測村裡的酒店體驗感超驚艷✨我住的 景德鎮紫迎·漫生活設計師酒店(",
+        "datePublished": "",
+        "dateModified": ""
+      },
+      "tags": [
+        "住宿",
+        "避坑"
+      ],
+      "relatedQueries": [
+        "景德镇 3天2晚 攻略 不踩雷",
+        "景德镇 陶溪川 攻略 夜市 停车 住宿",
+        "景德镇 路线规划 自驾 包车 瑶里 三宝村"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://hk.trip.com/moments/detail/jingdezhen-405-140472963/",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "ota-guide",
+      "title": "景德鎮3天2晚，不踩雷的保姆級攻略避雷景德鎮？其實是假攻｜Trip.com 景德鎮",
+      "sourceSnippet": "Jan 15, 2026 — 景德鎮3天2晚，不踩雷的保姆級攻略   避雷景德鎮？其實是假攻略太多旅居景德鎮近3年，分享自己去過、吃過的，這是2026年更新版 市區景點  中國陶瓷博物館Read more",
+      "summary": "Trip.com offers a comprehensive travel platform with services for hotels, flights, trains, car rentals, airport transfers, tours, and travel packages, all available in zh-HK with HKD pricing. The site also features travel inspiration, planning tools like Trip.Planner, loyalty rewards, and access to a wide range of deals and promotions to help users plan both individual or group trips. The content highlights user-generated Trip Moments and blog posts showcasing destinations such as Jingdezhen, along with restaurant and attraction recommendations to enhance planning and in-destination experiences. Overall, it emphasizes a one-stop experience for booking, planning, and discovering travel and local insights.",
+      "metadata": {
+        "description": "景德鎮3天2晚,不踩雷的保姆級攻略😎 避雷景德鎮?其實是假攻略太多 旅居景德鎮近3年,分享自己去過、吃過的,這是2026年更新版  📷市區景點 🔵中國陶瓷博物館 6樓“無語佛”很火,建議4樓開始看,根據瓷器的發展時間逛。10:30和14:30 有免費講解,提前去服務台排隊 ❤9點~18點;免費預約。周一休 🔵御窯博物館 博物館內藏品是御窯廠挖掘出來的碎瓷的修復品,破破爛爛是意義。逛完博物館,可以逛陶陽里,我做過路線推薦 ❤9點~22點;預約免費,需➕陶陽里53元門票。",
+        "datePublished": "",
+        "dateModified": ""
+      },
+      "tags": [
+        "避坑",
+        "路线"
+      ],
+      "relatedQueries": [
+        "景德镇 3天2晚 攻略 不踩雷"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://hk.trip.com/moments/detail/jingdezhen-405-142775711/",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "ota-guide",
+      "title": "別再亂逛景德鎮！三寶村保姆級攻略｜免費出片+避坑封神｜Trip.com 景德鎮",
+      "sourceSnippet": "Mar 10, 2026 — 三寶村保姆級攻略|免費出片+避坑封神✨ 誰懂啊!景德鎮三寶村才是 ... 交通|怎麼去最划算 · 高鐵到景德鎮北站→打車25分鐘≈30元直達村口· 市 ...Read more",
+      "summary": "Trip.com’s Hong Kong site offers a centralized travel hub with quick access to orders, account login, and the main homepage, alongside a focus on Trip Moments featuring destinations like Jingdezhen and the Sanbao Ceramic Village. The content highlights a detailed, image-rich guide to Sanbao Village in Jingdezhen, covering how to get there, key photo spots, pottery workshops, dining options, and practical tips to avoid common pitfalls, all framed as a community-shared experience. It also showcases related Trip Moments, blog posts, and popular destinations, along with restaurant recommendations, attractions, and travel tips for planning a slow, culture-rich ceramic towns visit.\n\nThe page reiterates support and service links, privacy and terms information, and corporate details, ending with standard footer elements about payments, partners, and copyright. Overall, it emphasizes immersive, artisanal experiences in Jingdezhen, with practical travel advice, cost estimates, and a user-driven emphasis on capturing memorable ceramic art and local cuisine.",
+      "metadata": {
+        "description": "  別再亂逛景德鎮!三寶村保姆級攻略|免費出片+避坑封神✨  誰懂啊!景德鎮三寶村才是文藝青年的烏托邦🏺 免門票、溪水潺潺、陶瓷藝術拉滿,隨手拍都是治癒大片 看完這篇,不繞路、不踩坑、省錢又出片,直接抄作業✅  🚗交通|怎麼去最划算  &middot; 高鐵到景德鎮北站→打車25分鐘≈30元直達村口 &middot; 市區打車≈20元,黑車喊50-80別理❌ &middot; 村內必租電動車:30元/天,別租30元2小時的高價車 &middot; 自駕導航:三寶蓬藝術聚落",
+        "datePublished": "",
+        "dateModified": ""
+      },
+      "tags": [
+        "交通",
+        "避坑"
+      ],
+      "relatedQueries": [
+        "景德镇 三宝村 攻略 交通 避坑"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://www.sohu.com/a/1007862646_122593161",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "media-guide",
+      "title": "瑶里古镇，值得你专门留一天吗？景德镇出发包车费用全解析_时间_建议_苦槠",
+      "sourceSnippet": "Apr 10, 2026 — 从景德镇出发：交通方式与包车费用详解. 从景德镇市区到瑶里古镇，路程大约50-60公里，车程1小时到1.5小时。交通主要有三种方式：. 展开剩余77 %. 旅游 ...Read more",
+      "summary": "瑶里古镇被推荐为值得专门留一天的慢旅行目的地，尤其适合寻求远离商业化景区、体验宁静与历史气息的游客。文章从景德镇出发给出三种交通选项并详细讲解包车价格，强调包车尤其适合家庭或朋友结伴，方便灵活地安排时间与游览。它还提供了一条经典一天的行程路线，包含抵达后的古镇步行、跨河木板桥拍照点以及周边自然与陶瓷景点的延伸游览，并给出适合的用餐与游玩建议。\n\n此外，内容强调瑶里古镇的美在于质朴与慢生活的氛围，建议穿着舒适防滑鞋、注意夏季防蚊防晒并携带雨具。文章还列出门票信息、适合带娃的活动、最佳拍照时间以及避免高峰期的实用提示，最后总结瑶里是一处“素颜美人”的文化自然体验，适合用一天时间换取一段宁静的文化自然之旅。",
+      "metadata": {
+        "description": "",
+        "datePublished": "2026-04-10 18:57",
+        "dateModified": ""
+      },
+      "tags": [
+        "交通",
+        "路线",
+        "瑶里"
+      ],
+      "relatedQueries": [
+        "景德镇 瑶里古镇 攻略 交通 包车"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://goods.taobao.com/t/lvyou_1471/49f1028a8e9d96c2c038e5353c1fc3fd.html",
+      "httpStatus": 403,
+      "category": "other",
+      "title": "景德镇瑶里古镇包车怎么安排？2025最新行程攻略来了！-旅游-淘宝 ...",
+      "sourceSnippet": "包车游是景德镇瑶里古镇周边游的最佳选择之一。相较于公共交通，包车不仅可灵活安排行程，还能避免频繁换乘带来的疲劳。特别是瑶里古镇至寒溪村、瓷宫、丙丁村及浮梁古 ...",
+      "summary": "",
+      "metadata": {
+        "description": "",
+        "datePublished": "",
+        "dateModified": ""
+      },
+      "tags": [
+        "交通",
+        "路线",
+        "瑶里",
+        "寒溪村",
+        "瓷宫",
+        "浮梁"
+      ],
+      "relatedQueries": [
+        "景德镇 瑶里古镇 攻略 交通 包车",
+        "景德镇 路线规划 自驾 包车 瑶里 三宝村"
+      ],
+      "creditsUsed": 0,
+      "error": "Target URL is blocked by security policy"
+    },
+    {
+      "url": "https://jx.sina.cn/news/2023-03-08/detail-imykcrtx6875673.d.html",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "media-guide",
+      "title": "高岭·中国村夏季嗨玩攻略_手机新浪网",
+      "sourceSnippet": "Mar 8, 2023 — 火车：景德镇北站距离景区大概30公里，有直达公交到达景区。 自驾：周边游最佳交通方式，景区停车费便宜，一天封顶仅需50元。 一日游推荐：. 上午 ...Read more",
+      "summary": "高岭·中国村夏季嗨玩攻略介绍景德镇浮梁县北部的高岭·中国村，它是一个多业态的田园综合体，包含茶海、花海、香樟林海以及村长学院等景区片区，提供多样化的夏日避暑和休闲体验。内容重点围绕出游方式、日程安排、门票与购物选项，以及各景点的特色项目，如智慧农园的摘果、丛林漂流、唐代茶市演出和大唐茶宴等，强调观光车票、演出票价，以及在地美食的尝试。还提到穿着建议、携带物品和夏日出行必备的准备事项，帮助游客更好规划一日游的行程。\n\n游客可乘坐直达公交到达景区，周边自驾也很方便，建议购买观光车票以便在各片区之间便捷移动。日间行程安排从智慧农园的采摘开始，接着是丛林漂流和大唐茶市的沉浸式演出，晚上则可在茶市体验茶宴与美食，同时可在高岭花海拍摄网红照并体验露营、烧烤等活动。文中也强调入园免费但观光车票是最佳体验的投票项，部分演出需单独购票，价格随时间波动，建议以美团等平台的当日价格为准。",
+      "metadata": {
+        "description": "高岭·中国村位于景德镇浮梁县东北部，有浮梁茶海、高岭花海、香樟林海、村长学院、智慧农园、界田小村等片区，是一个拥有多业态...",
+        "datePublished": "",
+        "dateModified": ""
+      },
+      "tags": [
+        "交通",
+        "路线",
+        "高岭",
+        "浮梁",
+        "美食"
+      ],
+      "relatedQueries": [
+        "景德镇 高岭中国村 攻略 交通"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://www.sohu.com/a/1006440912_122593161",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "media-guide",
+      "title": "景德镇“瓷宫”探秘：值得专程前往吗？与浮梁古县衙同游的完美一天攻略_建筑_建议_景点",
+      "sourceSnippet": "“瓷宫”究竟值不值得去？ ... 先说结论：如果你对建筑艺术、民间故事或独特的视觉景观有兴趣，它非常值得成为你景德镇之旅的一站。瓷宫并非历史古迹，而是一位名叫余二妹的 ...",
+      "summary": "景德镇的瓷宫以碎瓷片打造的圆形陶瓷宫殿为核心，强调的是建筑艺术、民间故事与独特视觉景观的体验，而非历史古迹的传统价值。文章给出这座由老人自荐与收藏所构建的艺术装置的亮点，指出它的魅力在于“奇”与“情”，并解释访客在光影下拍摄效果出众，适合作为景德镇之旅中的短暂停留点。行程还将瓷宫与浮梁古县衙串联，形成一天之内的高效路线，便于将现代民间艺术与古代官署文化对话起来。\n\n值得一日游的安排包括从浮梁古县衙出发，午后前往瓷宫，晚间返回市区并可延展至御窑博物馆或陶溪川文创街区，强调自驾或包车是最省时的方式。门票通常为几十元，游览时间大约4-5小时，适合对视觉艺术与匠心精神感兴趣的旅行者。整篇还提供了实用小贴士，如着装与防晒、拍照建议及尊重文化的提醒，帮助游客更好地体验这条充满传奇色彩的陶瓷旅程。",
+      "metadata": {
+        "description": "",
+        "datePublished": "2026-04-07 18:57",
+        "dateModified": ""
+      },
+      "tags": [
+        "交通",
+        "路线",
+        "陶溪川",
+        "陶阳里",
+        "瓷宫",
+        "浮梁"
+      ],
+      "relatedQueries": [
+        "景德镇 瓷宫 攻略 交通 值不值得"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://c.m.163.com/news/a/KNPRLV100556IRPJ.html",
+      "httpStatus": 403,
+      "category": "media-guide",
+      "title": "景德镇“瓷宫”探秘：值得专程前往吗？与浮梁古县衙同游一日攻略",
+      "sourceSnippet": "如何抵达？ 瓷宫位于景德镇浮梁县新平村，距离景德镇市区约15公里。交通上不算“出门即到”，但通过以下方式完全可以轻松抵达：. 自驾或包车：这是推荐的方式，导航“景德镇瓷 ...",
+      "summary": "",
+      "metadata": {
+        "description": "",
+        "datePublished": "",
+        "dateModified": ""
+      },
+      "tags": [
+        "交通",
+        "瓷宫",
+        "浮梁"
+      ],
+      "relatedQueries": [
+        "景德镇 瓷宫 攻略 交通 值不值得"
+      ],
+      "creditsUsed": 0,
+      "error": "Target URL is blocked by security policy"
+    },
+    {
+      "url": "https://www.sohu.com/a/1005427569_122534612",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "media-guide",
+      "title": "404,您访问的页面已经不存在!",
+      "sourceSnippet": "从景德镇市区（如人民广场、陶溪川附近）前往浮梁县臧湾乡的寒溪村（大地之灯所在地），距离大约在25-30公里。主要有以下几种方式，你可以根据自己的同行人数、预算和旅行 ...",
+      "summary": "The content appears to be a layout and navigation hub for Sohu, listing a broad range of sections such as news, sports, cars, real estate, travel, education, fashion, technology, finance, entertainment, and additional topics like health, history, military, food, culture, astrology, society, games, humor, anime, and pets. It also includes links to services like setting the homepage, input methods, payment, recruitment, advertising, customer service, contact information, privacy protection, investor relations, and company information. The page ends with a notice that the page is missing and prompts a redirection to the Sohu homepage, along with copyright information and a contact phone line for reporting illegal or harmful content. Overall, it serves as a primary navigational portal guiding users to various content areas and services offered by Sohu.",
+      "metadata": {
+        "description": "",
+        "datePublished": "",
+        "dateModified": ""
+      },
+      "tags": [
+        "陶溪川",
+        "寒溪村",
+        "浮梁"
+      ],
+      "relatedQueries": [
+        "景德镇 浮梁古县衙 攻略 交通"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://hk.trip.com/travel-guide/attraction/fuliang/bingding-wood-kiln-jingdezhen-71571549/",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "ota-guide",
+      "title": "丙丁柴窯門票【2026】- 預約、開放時間",
+      "sourceSnippet": "單人遊景德鎮也能玩得爽還不超支!這份兩天一夜攻略總花費僅493元,把逛吃、淘瓷、打卡全安排,省錢又盡興~ Day1:市區逛吃淘瓷,玩轉陶溪川1. 出發+住宿:南昌→景德鎮火車 ...Read more",
+      "summary": "The text indicates a loading failure and asks the user to try again later. It presents a retry option labeled 重試 and a navigation option 返回 to go back. The message is concise, focusing on informing the user of the issue and offering two possible actions. Overall, it communicates a temporary loading problem and practical next steps without additional details.",
+      "metadata": {
+        "description": "",
+        "datePublished": "",
+        "dateModified": ""
+      },
+      "tags": [
+        "住宿",
+        "陶溪川",
+        "买瓷器"
+      ],
+      "relatedQueries": [
+        "景德镇 丙丁柴窑 攻略 预约 交通"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://post.smzdm.com/p/a65rpo8z",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "community-guide",
+      "title": "景德镇淘瓷攻略｜新手闭眼冲！买对不买贵",
+      "sourceSnippet": "景德镇五大市场各有侧重，按需前往才能高效淘瓷。国贸陶瓷市场是批发集散地，碗盘杯碟等日用瓷价格几十到几百元，适合批量采购，砍价空间约三成。陶溪川文创街区是年轻设计师的 ...Read more",
+      "summary": "The content appears to be an empty HTML page with no visible text or elements. There is no substantive information, headings, images, or links to summarize. As a result, there are no main ideas or features to describe. If there was intended content, please provide it and I can summarize it accordingly.",
+      "metadata": {
+        "description": "",
+        "datePublished": "",
+        "dateModified": ""
+      },
+      "tags": [
+        "陶溪川",
+        "买瓷器"
+      ],
+      "relatedQueries": [
+        "景德镇 雕塑瓷厂 攻略 买瓷器",
+        "景德镇 买瓷器 攻略 陶瓷市场 避坑"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://zhuanlan.zhihu.com/p/446858184",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "community-guide",
+      "title": "外地游客在景德镇怎样买到相对应价位的瓷器？ - 知乎",
+      "sourceSnippet": "Dec 5, 2023 — 接下来，按照我们的区间来，给大家说说哪些地方可以买到相应的陶瓷。 首先是1到200的. 目标地点. 一，雕塑瓷厂. 这里应该会有类似于手工拉 ...Read more",
+      "summary": "景德镇的买瓷策略从本地居民的经验出发，分为多个价格区间，帮助外地游客把握性价比。文中介绍了雕塑瓷厂、陶艺街、乐天集市和国贸广场等地点，强调先区分纯手绘、半手工与全手工，以及是否贴花，来判断价格与品质，提示雨天和晚间的购物节奏，并指出大件和高端陶瓷多在陶溪川、国贸广场等地集中，适合有预算和追求艺术性的买家。对于大宗购买，建议与商家协商邮寄或快递，减少携带成本。文末还列出若干值得关注的小店与品牌，并强调景德镇的瓷器具有地域特色，初次来访者可通过上述地点快速体验和选购。",
+      "metadata": {
+        "description": "虽然我也不知道你们大概觉得便宜的价位是多少。 随时更新，近期更新日期：2023.12.05 下期文章预告：外地游客怎样在景德镇应该吃些什么？ 在此之前呢，就给大家列举几个区间。（近期很多朋友想到小城市旅游必看指…",
+        "datePublished": "2021-12-17T19:07:44.000Z",
+        "dateModified": "2024-01-13T06:24:52.000Z"
+      },
+      "tags": [
+        "陶溪川",
+        "雕塑瓷厂",
+        "买瓷器",
+        "陶艺体验"
+      ],
+      "relatedQueries": [
+        "景德镇 雕塑瓷厂 攻略 买瓷器"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://my.trip.com/moments/detail/jingdezhen-405-121065029?locale=zh-MY",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "ota-guide",
+      "title": "去了6次景德鎮，景德鎮最新條避坑建議｜Trip.com 景德鎮",
+      "sourceSnippet": "Apr 13, 2024 — 景德鎮,這裡是世界聞名的瓷都, 有「一城瓷器半城窯」之稱, 城中瓷窯之多世界罕見, 如果你也準備去景德鎮旅遊, 景德鎮最新20條避坑建議分享給大家~Read more",
+      "summary": "Trip.com provides a regional homepage and app access in Chinese (Malaysia locale) with options to search orders, log in, and view Trip Moments focused on Jingdezhen and its porcelain heritage. The content highlights景德鎮中國陶瓷博物館 and nearby sites like御窯博物館,瑤里古鎮,陶溪川, and三寶村, offering practical travel tips, open hours, and suggested activities such as making pottery, visiting markets, and sampling local snacks. It also showcases user-generated Trip Moments, photos, and restaurant listings, along with navigation to customer service, service agreements, and additional Trip.com services. The page emphasizes real-time travel information, weather, and crowd guidance, as well as links to support, privacy, and corporate information.",
+      "metadata": {
+        "description": "景德鎮,這裡是世界聞名的瓷都, 有「一城瓷器半城窯」之稱, 城中瓷窯之多世界罕見, 如果你也準備去景德鎮旅遊, 景德鎮最新20條避坑建議分享給大家~ . 1. 要去景德鎮的朋友高鐵可以直接到景德鎮,飛機可飛景德鎮或者飛南昌再轉高鐵到景德鎮 2. 為了天青色等煙雨去瑤里古鎮的朋友不需要買門票,更別直接買150元的通票純屬浪費錢,等到逛到需要驗票的地方再買 3. 御窯博物館(夜景更好看)建築由建築設計師朱銳操刀,被評為「2020年全球十大博物館建築」晚上九點半之後不讓進,10點後",
+        "datePublished": "",
+        "dateModified": ""
+      },
+      "tags": [
+        "避坑",
+        "陶溪川"
+      ],
+      "relatedQueries": [
+        "景德镇 买瓷器 攻略 陶瓷市场 避坑"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://post.smzdm.com/p/aggnw9w3",
+      "scrapeStatus": "failed",
+      "httpStatus": 200,
+      "category": "community-guide",
+      "title": "五一景德镇出行全攻略：经典与小众路线及避坑指南",
+      "sourceSnippet": "五一景德镇出行全攻略：经典与小众路线及避坑指南 · 交通建议建议优先选择高铁抵达；市内交通推荐租电动车，费用约30元/天，务必佩戴头盔并注意当地交通状况较为复杂。 · 住宿 ...Read more",
+      "summary": "",
+      "metadata": {
+        "description": "",
+        "datePublished": "",
+        "dateModified": ""
+      },
+      "tags": [
+        "住宿",
+        "交通",
+        "避坑",
+        "路线"
+      ],
+      "relatedQueries": [
+        "景德镇 三宝村 攻略 交通 避坑"
+      ],
+      "creditsUsed": 0,
+      "error": null
+    },
+    {
+      "url": "https://gs.ctrip.com/html5/you/travels/405/4075726.html",
+      "scrapeStatus": "failed",
+      "httpStatus": 200,
+      "category": "ota-guide",
+      "title": "故乡的容颜2022——热闹的陶溪川周末夜市",
+      "sourceSnippet": "周末，与闺蜜相约陶溪川，一进停车场就觉得不明智，光找停车位就花费了二十几分钟。来到地面，这个广场上正在举行活动，年轻的歌手在这里开演唱会，周围都是年轻的观众。这是我 ...",
+      "summary": "",
+      "metadata": {
+        "description": "",
+        "datePublished": "",
+        "dateModified": ""
+      },
+      "tags": [
+        "交通",
+        "陶溪川"
+      ],
+      "relatedQueries": [
+        "景德镇 陶溪川 攻略 夜市 停车 住宿"
+      ],
+      "creditsUsed": 0,
+      "error": null
+    },
+    {
+      "url": "https://hk.trip.com/moments/poi-city-133146779/",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "ota-guide",
+      "title": "2026撫州弄 | 景德鎮餐廳指南與旅客實拍 | Trip Moments",
+      "sourceSnippet": "地址:洪都大拇指,抚州弄店  人均消費:15rmb 🏖️環境/設施:沒有什麼座位 ... 強烈推薦歐記大排檔:景德鎮吃得最好吃的一頓,吃了一次念念不忘了,雞爪軟糯入口脫 ...Read more",
+      "summary": "景德鎮旅遊內容聚焦於景德鎮的餐飲、景點與行程安排，主旨在於提供實用的旅遊攻略與實拍照片，讓讀者能規畫兩到四天的瓷都行程。重點景點涵蓋中國陶瓷博物館、御窯博物館、古窯民俗博覽區、陶溪川文創街區、撫州弄與瑤里古鎮等，同時提供交通方式、票務預訂建議、必吃小吃如油條包麻糍、牛骨粉等，以及住宿建議多在陶溪川與市區周邊。內容還包含實用貼士，如提前線上預約、避開高峰、講價技巧與天氣變化，並強調景點分散需以交通工具為主的出行策略。",
+      "metadata": {
+        "description": "探索撫州弄最新情報！精選全球旅客真實貼文與實拍相片，了解遊玩建議、門票交通、注意事項與附近住宿。更多景德鎮餐廳旅行靈感就在Trip.com，助您輕鬆規劃自由行！",
+        "datePublished": "",
+        "dateModified": ""
+      },
+      "tags": [
+        "住宿",
+        "交通",
+        "路线",
+        "陶溪川",
+        "美食"
+      ],
+      "relatedQueries": [
+        "景德镇 美食 攻略 抚州弄 欧记大排档"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://gs.ctrip.com/html5/you/sight/jingdezhen405/61150.html",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "ota-guide",
+      "title": "景德镇中国陶瓷博物馆",
+      "sourceSnippet": "陶瓷博物馆馆藏特色突出，首先看里面陈列了四件镇馆之宝：元青花缠枝牡丹纹梅瓶、明代三彩鸭形香薰、清代粉彩八蛮进宝图双耳瓶和网红“无语佛”。这些都是具体的文物 ...Read more",
+      "summary": "景德镇中国陶瓷博物馆以展现中国陶瓷发展为主，馆内收藏丰富，从新石器时代陶器到现代陶瓷艺术品，呈现深厚的陶瓷文化底蕴。无语佛等标志性展品和四件镇馆之宝成为重点亮点，讲解细致且免费预约参观，园区还设有免费停车，性价比高，适合对中国陶瓷感兴趣的游客。\n\n游客点评普遍称赞馆藏特色突出、讲解专业，拍照打卡点多，建筑风格现代且富有艺术感，文创产品也颇具纪念价值。周边如陶阳里旅游区、陶溪川文创街区和瑶里古镇等景点提供夜游观景与亲子体验，适合安排多日行程。总体而言，这是一次穿越时空的陶瓷艺术旅程，适合各类游客前来探索与学习。",
+      "metadata": {
+        "description": "携程攻略提供景德镇景德镇中国陶瓷博物馆游玩攻略信息，您可以查询景德镇景德镇中国陶瓷博物馆票价格优惠信息表、参观预约景德镇中国陶瓷博物馆门票价格多少钱,景德镇中国陶瓷博物馆团购门票预定优惠、景德镇中国陶瓷博物馆景点地址在哪和开放时间、景德镇中国陶瓷博物馆营业时间图片、景德镇中国陶瓷博物馆点评、景德镇中国陶瓷博物馆景点旅游游览顺序攻略及注意事项和天气等实用信息。旅行，从携程攻略开始。",
+        "datePublished": "",
+        "dateModified": ""
+      },
+      "tags": [
+        "交通",
+        "路线",
+        "陶溪川",
+        "陶阳里",
+        "中国陶瓷博物馆",
+        "瑶里"
+      ],
+      "relatedQueries": [
+        "景德镇 中国陶瓷博物馆 攻略 预约 镇馆之宝"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    },
+    {
+      "url": "https://www.sohu.com/a/1006478579_122534612",
+      "scrapeStatus": "completed",
+      "httpStatus": 200,
+      "category": "media-guide",
+      "title": "404,您访问的页面已经不存在!",
+      "sourceSnippet": "Apr 7, 2026 — 为了获得从容、体验感强的观看体验，我们建议您将参观核心时段安排在上午9:30至11:30 或下午14:00至16:00。后，避开正午热的时间，您在景区内步行参观 ...",
+      "summary": "The content appears to be a layout and navigation hub for Sohu, listing a broad range of sections such as news, sports, cars, real estate, travel, education, fashion, technology, finance, entertainment, and additional topics like health, history, military, food, culture, astrology, society, games, humor, anime, and pets. It also includes links to services like setting the homepage, input methods, payment, recruitment, advertising, customer service, contact information, privacy protection, investor relations, and company information. The page ends with a notice that the page is missing and prompts a redirection to the Sohu homepage, along with copyright information and a contact phone line for reporting illegal or harmful content. Overall, it serves as a primary navigational portal guiding users to various content areas and services offered by Sohu.",
+      "metadata": {
+        "description": "",
+        "datePublished": "",
+        "dateModified": ""
+      },
+      "tags": [],
+      "relatedQueries": [
+        "景德镇 古窑民俗博览区 攻略"
+      ],
+      "creditsUsed": 1,
+      "error": null
+    }
+  ]
+}

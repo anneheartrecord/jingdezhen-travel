@@ -1,0 +1,308 @@
+.route-panel {
+  padding: 16px;
+  max-height: 720px;
+  overflow: auto;
+}
+
+.route-panel-header {
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.route-panel h2,
+.info-panel h2 {
+  margin: 0;
+  font-size: 1.18rem;
+}
+
+.intensity {
+  flex: 0 0 auto;
+  padding: 6px 10px;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 800;
+}
+
+.intensity-轻松,
+.intensity-正常 {
+  background: rgba(127, 174, 154, 0.2);
+  color: #315f4f;
+}
+
+.intensity-偏满 {
+  background: rgba(216, 164, 65, 0.25);
+  color: #775318;
+}
+
+.intensity-很折腾 {
+  background: rgba(229, 107, 93, 0.18);
+  color: #9c3024;
+}
+
+.metric-row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+  margin: 14px 0;
+}
+
+.metric-row div {
+  padding: 10px;
+  border: 1px solid rgba(21, 91, 154, 0.14);
+  border-radius: 8px;
+  background: rgba(21, 91, 154, 0.05);
+}
+
+.metric-row strong,
+.metric-row span {
+  display: block;
+}
+
+.metric-row span {
+  margin-top: 2px;
+  color: rgba(24, 50, 74, 0.58);
+  font-size: 0.78rem;
+}
+
+.icon-button,
+.map-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  min-height: 36px;
+  padding: 0 12px;
+  text-decoration: none;
+}
+
+.warning-list,
+.timeline,
+.lodging-list,
+.pitfall-list,
+.source-list,
+.sortable-list {
+  display: grid;
+  gap: 10px;
+}
+
+.warning-card,
+.day-card,
+.lodging-card,
+.pitfall-card,
+.source-card,
+.sortable-row {
+  border: 1px solid rgba(21, 91, 154, 0.14);
+  border-radius: 8px;
+  background: rgba(255, 253, 247, 0.76);
+}
+
+.warning-card {
+  padding: 10px;
+}
+
+.warning-card.danger {
+  border-color: rgba(229, 107, 93, 0.42);
+}
+
+.warning-card.warning {
+  border-color: rgba(216, 164, 65, 0.5);
+}
+
+.day-card {
+  padding: 12px;
+}
+
+.day-card-title {
+  display: flex;
+  gap: 8px;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+.day-card-title span {
+  color: var(--coral);
+  font-weight: 800;
+}
+
+.day-card ol {
+  display: grid;
+  gap: 8px;
+  margin: 10px 0 0;
+  padding-left: 20px;
+}
+
+.day-card li span,
+.day-card li small,
+.day-card li em {
+  display: block;
+}
+
+.day-card li span {
+  font-weight: 800;
+}
+
+.day-card li small {
+  color: var(--cobalt);
+  font-size: 0.78rem;
+}
+
+.day-card li em {
+  color: rgba(24, 50, 74, 0.62);
+  font-size: 0.82rem;
+  font-style: normal;
+}
+
+.info-panel {
+  padding: 16px;
+}
+
+.roast-line {
+  margin: 0 0 12px;
+  padding: 12px;
+  border-left: 4px solid var(--coral);
+  border-radius: 8px;
+  background: rgba(229, 107, 93, 0.08);
+  color: #71372f;
+  font-weight: 700;
+}
+
+.tag-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 12px;
+}
+
+.tag-row span {
+  padding: 5px 8px;
+  border-radius: 999px;
+  background: rgba(127, 174, 154, 0.18);
+  color: #315f4f;
+  font-size: 0.78rem;
+  font-weight: 800;
+}
+
+.detail-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.detail-grid div {
+  padding: 10px;
+  border-radius: 8px;
+  background: rgba(21, 91, 154, 0.05);
+}
+
+.detail-grid strong {
+  display: block;
+  color: var(--cobalt);
+}
+
+.tip-list {
+  display: grid;
+  gap: 6px;
+  margin: 12px 0;
+  padding-left: 18px;
+  color: rgba(24, 50, 74, 0.74);
+}
+
+.sortable-row {
+  display: grid;
+  grid-template-columns: 32px 1fr 32px;
+  align-items: center;
+  gap: 8px;
+  padding: 8px;
+}
+
+.sortable-row strong,
+.sortable-row span {
+  display: block;
+}
+
+.sortable-row span {
+  color: rgba(24, 50, 74, 0.58);
+  font-size: 0.78rem;
+}
+
+.drag-handle,
+.remove-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  border: 0;
+  border-radius: 50%;
+  background: rgba(21, 91, 154, 0.08);
+  color: var(--ink);
+}
+
+.add-spot-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.add-spot-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  min-height: 32px;
+  padding: 0 10px;
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
+.lodging-card,
+.pitfall-card {
+  padding: 12px;
+}
+
+.lodging-card h3 {
+  margin: 0 0 6px;
+}
+
+.lodging-card div,
+.pitfall-card div {
+  display: flex;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.pitfall-card.relevant {
+  border-color: rgba(229, 107, 93, 0.45);
+  background: rgba(229, 107, 93, 0.07);
+}
+
+.pitfall-card span {
+  margin-left: auto;
+  color: var(--coral);
+  font-weight: 800;
+}
+
+.source-list {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.source-card {
+  display: grid;
+  gap: 6px;
+  padding: 12px;
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.source-card span {
+  color: var(--coral);
+  font-size: 0.75rem;
+  font-weight: 800;
+}
+
+.source-card small {
+  color: rgba(24, 50, 74, 0.58);
+  line-height: 1.5;
+}
